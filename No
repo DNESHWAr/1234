@@ -1,0 +1,302 @@
+#EXTINF:-1,|IN| Zee Cinema
+http://routing.1team.xyz:2052/M123/M123/533171
+#EXTINF:-1,IN : Tamil | ADITYA TV
+http://routing.1team.xyz:2052/M123/M123/533172
+#EXTINF:-1,IN : Tamil | CAPTAIN NEWS
+http://routing.1team.xyz:2052/M123/M123/533173
+#EXTINF:-1,IN : Tamil | EET TV
+http://routing.1team.xyz:2052/M123/M123/533174
+#EXTINF:-1,IN : Tamil | JAYA MAX USA
+http://routing.1team.xyz:2052/M123/M123/533175
+#EXTINF:-1,IN : Tamil | JAYA MOVIES
+http://routing.1team.xyz:2052/M123/M123/533176
+#EXTINF:-1,IN : Tamil | JAYA PLUS
+http://routing.1team.xyz:2052/M123/M123/533177
+#EXTINF:-1,IN : Tamil | JAYA TV
+http://routing.1team.xyz:2052/M123/M123/533178
+#EXTINF:-1,IN : Tamil | KTV US
+http://routing.1team.xyz:2052/M123/M123/533179
+#EXTINF:-1,IN : Tamil | NEWS 7
+http://routing.1team.xyz:2052/M123/M123/533180
+#EXTINF:-1,IN : Tamil | POLIMER NEWS
+http://routing.1team.xyz:2052/M123/M123/533181
+#EXTINF:-1,IN : Tamil | POLIMER TV
+http://routing.1team.xyz:2052/M123/M123/533182
+#EXTINF:-1,IN : Tamil | PUTHIYA THALAIMURAI
+http://routing.1team.xyz:2052/M123/M123/533183
+#EXTINF:-1,IN : Tamil | PUTHUYUGAM TV
+http://routing.1team.xyz:2052/M123/M123/533184
+#EXTINF:-1,IN : Tamil | RAJ DIGITAL PLUS
+http://routing.1team.xyz:2052/M123/M123/533185
+#EXTINF:-1,IN : Tamil | RAJ DIGITAL PLUS US
+http://routing.1team.xyz:2052/M123/M123/533186
+#EXTINF:-1,IN : Tamil | RAJ MUSIX
+http://routing.1team.xyz:2052/M123/M123/533187
+#EXTINF:-1,IN : Tamil | RAJ TV
+http://routing.1team.xyz:2052/M123/M123/533188
+#EXTINF:-1,IN : Tamil | SEITHIGAL
+http://routing.1team.xyz:2052/M123/M123/533189
+#EXTINF:-1,IN : Tamil | STAR VIJAY UK
+http://routing.1team.xyz:2052/M123/M123/533190
+#EXTINF:-1,IN : Tamil | SUN LIFE
+http://routing.1team.xyz:2052/M123/M123/533191
+#EXTINF:-1,IN : Tamil | SUN MUSIC
+http://routing.1team.xyz:2052/M123/M123/533192
+#EXTINF:-1,IN : Tamil | SUN NEWS
+http://routing.1team.xyz:2052/M123/M123/533193
+#EXTINF:-1,IN : Tamil | VASANTH TV
+http://routing.1team.xyz:2052/M123/M123/533194
+#EXTINF:-1,IN : Tamil | VENDHAR
+http://routing.1team.xyz:2052/M123/M123/533195
+#EXTINF:-1,IN : Tamil | VIJAY HD
+http://routing.1team.xyz:2052/M123/M123/533196
+#EXTINF:-1,IN : Tamil | WIN TV
+http://routing.1team.xyz:2052/M123/M123/533197
+#EXTINF:-1,IN:  PTC Punjabi Gold TV
+http://routing.1team.xyz:2052/M123/M123/533198
+#EXTINF:-1,IN:  Sanjha TV
+http://routing.1team.xyz:2052/M123/M123/533199
+#EXTINF:-1,IN: & PRIVE
+http://routing.1team.xyz:2052/M123/M123/533200
+#EXTINF:-1,IN: Fateh TV
+http://routing.1team.xyz:2052/M123/M123/533201
+#EXTINF:-1,IN: Peace TV HD
+http://routing.1team.xyz:2052/M123/M123/533202
+#EXTINF:-1,IN: Rishtey Europe
+http://routing.1team.xyz:2052/M123/M123/533203
+#EXTINF:-1,IN: SIKH CHANNEL
+http://routing.1team.xyz:2052/M123/M123/533204
+#EXTINF:-1,IN: SONY ESPN HD
+http://routing.1team.xyz:2052/M123/M123/533205
+#EXTINF:-1,IN: Star Movies HD
+http://routing.1team.xyz:2052/M123/M123/533206
+#EXTINF:-1,IN: Zee Tamil HD
+http://routing.1team.xyz:2052/M123/M123/533207
+#EXTINF:-1,IND:  3 Tamil TV
+http://routing.1team.xyz:2052/M123/M123/533208
+#EXTINF:-1,IND: & PICTURES
+http://routing.1team.xyz:2052/M123/M123/533209
+#EXTINF:-1,IND: & PICTURES HD
+http://routing.1team.xyz:2052/M123/M123/533210
+#EXTINF:-1,IND: &EXPLOR HD
+http://routing.1team.xyz:2052/M123/M123/533211
+#EXTINF:-1,IND: &TV HD
+http://routing.1team.xyz:2052/M123/M123/533212
+#EXTINF:-1,IND: 9X JALWA
+http://routing.1team.xyz:2052/M123/M123/533213
+#EXTINF:-1,IND: AAHO MUSIC
+http://routing.1team.xyz:2052/M123/M123/533214
+#EXTINF:-1,IND: ABP NEWS
+http://routing.1team.xyz:2052/M123/M123/533215
+#EXTINF:-1,IND: ANIMAL PLANET HINDI
+http://routing.1team.xyz:2052/M123/M123/533216
+#EXTINF:-1,IND: B4U Kadak
+http://routing.1team.xyz:2052/M123/M123/533217
+#EXTINF:-1,IND: B4U Movies
+http://routing.1team.xyz:2052/M123/M123/533218
+#EXTINF:-1,IND: B4U Music
+http://routing.1team.xyz:2052/M123/M123/533219
+#EXTINF:-1,IND: B4U Plus
+http://routing.1team.xyz:2052/M123/M123/533220
+#EXTINF:-1,IND: BBC EARTH 4K
+http://routing.1team.xyz:2052/M123/M123/533221
+#EXTINF:-1,IND: BIG MAGIC
+http://routing.1team.xyz:2052/M123/M123/533222
+#EXTINF:-1,IND: BOLLYWOOD CLASSIC
+http://routing.1team.xyz:2052/M123/M123/533223
+#EXTINF:-1,IND: BOLLYWOOD NOW
+http://routing.1team.xyz:2052/M123/M123/533224
+#EXTINF:-1,IND: BOLLYWOOD PREMIER
+http://routing.1team.xyz:2052/M123/M123/533225
+#EXTINF:-1,IND: Boogle Bollywood
+http://routing.1team.xyz:2052/M123/M123/533226
+#EXTINF:-1,IND: BritAsia TV
+http://routing.1team.xyz:2052/M123/M123/533227
+#EXTINF:-1,IND: Cinema TV
+http://routing.1team.xyz:2052/M123/M123/533228
+#EXTINF:-1,IND: COLOR CINEPLEX 4K
+http://routing.1team.xyz:2052/M123/M123/533229
+#EXTINF:-1,IND: COLORS (UK)
+http://routing.1team.xyz:2052/M123/M123/533230
+#EXTINF:-1,IND: COLORS CINEPLEX (UK)
+http://routing.1team.xyz:2052/M123/M123/533231
+#EXTINF:-1,IND: COLORS HD
+http://routing.1team.xyz:2052/M123/M123/533232
+#EXTINF:-1,IND: COLORS RISHTEY (UK)
+http://routing.1team.xyz:2052/M123/M123/533233
+#EXTINF:-1,IND: DD Malayalam
+http://routing.1team.xyz:2052/M123/M123/533234
+#EXTINF:-1,IND: Desi channel
+http://routing.1team.xyz:2052/M123/M123/533235
+#EXTINF:-1,IND: DHAMAAL TV
+http://routing.1team.xyz:2052/M123/M123/533236
+#EXTINF:-1,IND: DICOVERY KIDS HINDI
+http://routing.1team.xyz:2052/M123/M123/533237
+#EXTINF:-1,IND: DILLAGI TV
+http://routing.1team.xyz:2052/M123/M123/533238
+#EXTINF:-1,IND: Discovery HINDI
+http://routing.1team.xyz:2052/M123/M123/533239
+#EXTINF:-1,IND: Discovery Science HINDI
+http://routing.1team.xyz:2052/M123/M123/533240
+#EXTINF:-1,IND: DISNEY HOTSTAR
+http://routing.1team.xyz:2052/M123/M123/533241
+#EXTINF:-1,IND: DSPORTS
+http://routing.1team.xyz:2052/M123/M123/533242
+#EXTINF:-1,IND: ENTER 10
+http://routing.1team.xyz:2052/M123/M123/533243
+#EXTINF:-1,IND: EPIC HD
+http://routing.1team.xyz:2052/M123/M123/533244
+#EXTINF:-1,IND: HBO HD
+http://routing.1team.xyz:2052/M123/M123/533245
+#EXTINF:-1,IND: HISTORY
+http://routing.1team.xyz:2052/M123/M123/533246
+#EXTINF:-1,IND: IBC 24
+http://routing.1team.xyz:2052/M123/M123/533247
+#EXTINF:-1,IND: ID
+http://routing.1team.xyz:2052/M123/M123/533248
+#EXTINF:-1,IND: India TV
+http://routing.1team.xyz:2052/M123/M123/533249
+#EXTINF:-1,IND: INDIA TV NEWS
+http://routing.1team.xyz:2052/M123/M123/533250
+#EXTINF:-1,IND: Jhanjar Music
+http://routing.1team.xyz:2052/M123/M123/533251
+#EXTINF:-1,IND: Kalaignar TV
+http://routing.1team.xyz:2052/M123/M123/533252
+#EXTINF:-1,IND: Khabrain Abhi Tak
+http://routing.1team.xyz:2052/M123/M123/533253
+#EXTINF:-1,IND: Life Punjabi
+http://routing.1team.xyz:2052/M123/M123/533254
+#EXTINF:-1,IND: MAHA MOVIES
+http://routing.1team.xyz:2052/M123/M123/533255
+#EXTINF:-1,IND: MANORANJAN MOVIES
+http://routing.1team.xyz:2052/M123/M123/533256
+#EXTINF:-1,IND: Mirror Now
+http://routing.1team.xyz:2052/M123/M123/533257
+#EXTINF:-1,IND: MK Six
+http://routing.1team.xyz:2052/M123/M123/533258
+#EXTINF:-1,IND: MK Tunes
+http://routing.1team.xyz:2052/M123/M123/533259
+#EXTINF:-1,IND: MK TV
+http://routing.1team.xyz:2052/M123/M123/533260
+#EXTINF:-1,IND: MNX
+http://routing.1team.xyz:2052/M123/M123/533261
+#EXTINF:-1,IND: Movies Now
+http://routing.1team.xyz:2052/M123/M123/533262
+#EXTINF:-1,IND: NAT GEO WILD
+http://routing.1team.xyz:2052/M123/M123/533263
+#EXTINF:-1,IND: NICK
+http://routing.1team.xyz:2052/M123/M123/533264
+#EXTINF:-1,IND: NICK HD+
+http://routing.1team.xyz:2052/M123/M123/533265
+#EXTINF:-1,IND: POGO HINDI
+http://routing.1team.xyz:2052/M123/M123/533266
+#EXTINF:-1,IND: POP PATAKHA
+http://routing.1team.xyz:2052/M123/M123/533267
+#EXTINF:-1,IND: Reporter TV
+http://routing.1team.xyz:2052/M123/M123/533268
+#EXTINF:-1,IND: REPUBLIC BHARAT NEWS
+http://routing.1team.xyz:2052/M123/M123/533269
+#EXTINF:-1,IND: Romedy Now
+http://routing.1team.xyz:2052/M123/M123/533270
+#EXTINF:-1,IND: SONY MAX
+http://routing.1team.xyz:2052/M123/M123/533271
+#EXTINF:-1,IND: SONY MAX 2
+http://routing.1team.xyz:2052/M123/M123/533272
+#EXTINF:-1,IND: SONY MAX HD (UK)
+http://routing.1team.xyz:2052/M123/M123/533273
+#EXTINF:-1,IND: SONY PAL
+http://routing.1team.xyz:2052/M123/M123/533274
+#EXTINF:-1,IND: SONY SAB (UK)
+http://routing.1team.xyz:2052/M123/M123/533275
+#EXTINF:-1,IND: SONY SAB HD
+http://routing.1team.xyz:2052/M123/M123/533276
+#EXTINF:-1,IND: SONY SAB SD
+http://routing.1team.xyz:2052/M123/M123/533277
+#EXTINF:-1,IND: SONY SIX SD
+http://routing.1team.xyz:2052/M123/M123/533278
+#EXTINF:-1,IND: SONY TV (UK)
+http://routing.1team.xyz:2052/M123/M123/533279
+#EXTINF:-1,IND: SONY TV HD
+http://routing.1team.xyz:2052/M123/M123/533280
+#EXTINF:-1,IND: SONY YAY HINDI
+http://routing.1team.xyz:2052/M123/M123/533281
+#EXTINF:-1,IND: STAR BHARAT
+http://routing.1team.xyz:2052/M123/M123/533282
+#EXTINF:-1,IND: STAR GOLD HD
+http://routing.1team.xyz:2052/M123/M123/533283
+#EXTINF:-1,IND: STAR GOLD HD UK
+http://routing.1team.xyz:2052/M123/M123/533284
+#EXTINF:-1,IND: STAR GOLD SD (UK)
+http://routing.1team.xyz:2052/M123/M123/533285
+#EXTINF:-1,IND: STAR GOLD SELECT
+http://routing.1team.xyz:2052/M123/M123/533286
+#EXTINF:-1,IND: STAR PLUS
+http://routing.1team.xyz:2052/M123/M123/533287
+#EXTINF:-1,IND: STAR PLUS (UK)
+http://routing.1team.xyz:2052/M123/M123/533288
+#EXTINF:-1,IND: STAR SPORTS 1 (Hindi) FHD
+http://routing.1team.xyz:2052/M123/M123/533289
+#EXTINF:-1,IND: STAR SPORTS 1 HD
+http://routing.1team.xyz:2052/M123/M123/533290
+#EXTINF:-1,IND: STAR SPORTS 1 SD
+http://routing.1team.xyz:2052/M123/M123/533291
+#EXTINF:-1,IND: STAR SPORTS 2 HD
+http://routing.1team.xyz:2052/M123/M123/533292
+#EXTINF:-1,IND: STAR SPORTS SELECT 2
+http://routing.1team.xyz:2052/M123/M123/533293
+#EXTINF:-1,IND: Suvarna News 24×7
+http://routing.1team.xyz:2052/M123/M123/533294
+#EXTINF:-1,IND: TEN 1 HD
+http://routing.1team.xyz:2052/M123/M123/533295
+#EXTINF:-1,IND: TEN 2 HD
+http://routing.1team.xyz:2052/M123/M123/533296
+#EXTINF:-1,IND: TEN 3 HD
+http://routing.1team.xyz:2052/M123/M123/533297
+#EXTINF:-1,IND: Thanthi TV
+http://routing.1team.xyz:2052/M123/M123/533298
+#EXTINF:-1,IND: TLC HINDI
+http://routing.1team.xyz:2052/M123/M123/533299
+#EXTINF:-1,IND: UTV HD
+http://routing.1team.xyz:2052/M123/M123/533300
+#EXTINF:-1,IND: WILLOW CRICKET HD
+http://routing.1team.xyz:2052/M123/M123/533301
+#EXTINF:-1,IND: ZEE ACTION
+http://routing.1team.xyz:2052/M123/M123/533302
+#EXTINF:-1,IND: ZEE ANMOL
+http://routing.1team.xyz:2052/M123/M123/533303
+#EXTINF:-1,IND: ZEE ANMOL CINEMA
+http://routing.1team.xyz:2052/M123/M123/533304
+#EXTINF:-1,IND: ZEE BOLLYWOOD
+http://routing.1team.xyz:2052/M123/M123/533305
+#EXTINF:-1,IND: ZEE CAFE
+http://routing.1team.xyz:2052/M123/M123/533306
+#EXTINF:-1,IND: ZEE CINEMA HD
+http://routing.1team.xyz:2052/M123/M123/533307
+#EXTINF:-1,IND: ZEE CINEMA SD
+http://routing.1team.xyz:2052/M123/M123/533308
+#EXTINF:-1,IND: ZEE CINEMA UK
+http://routing.1team.xyz:2052/M123/M123/533309
+#EXTINF:-1,IND: ZEE CINEMA USA
+http://routing.1team.xyz:2052/M123/M123/533310
+#EXTINF:-1,IND: ZEE HINDUSTAN
+http://routing.1team.xyz:2052/M123/M123/533311
+#EXTINF:-1,IND: ZEE SALAAM
+http://routing.1team.xyz:2052/M123/M123/533312
+#EXTINF:-1,IND: ZEE TV CANADA
+http://routing.1team.xyz:2052/M123/M123/533313
+#EXTINF:-1,IND: ZEE TV HD
+http://routing.1team.xyz:2052/M123/M123/533314
+#EXTINF:-1,IND: ZING
+http://routing.1team.xyz:2052/M123/M123/533315
+#EXTINF:-1,MH1 News Punjabi IN
+http://routing.1team.xyz:2052/M123/M123/533316
+#EXTINF:-1,PB | PTC NEWS
+http://routing.1team.xyz:2052/M123/M123/533317
+#EXTINF:-1,PB | WAH PUNJABI
+http://routing.1team.xyz:2052/M123/M123/533318
+#EXTINF:-1,PB_BALLE BALLE HD
+http://routing.1team.xyz:2052/M123/M123/533319
+#EXTINF:-1,PB_DD Punjabi
+http://routing.1team.xyz:2052/M123/M123/533320
+#EXTINF:-1,xTashan IN
+http://routing.1team.xyz:2052/M123/M123/533321
